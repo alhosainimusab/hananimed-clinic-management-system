@@ -1,0 +1,6 @@
+id,patient_id,doctor_id,date_time,notes
+A001,P001,S001,2027-01-11 09:00,Fever follow-up
+A002,P002,S002,2027-01-11 09:30,Flu
+A003,P004,S001,2027-01-11 10:00,Blood pressure review
+A004,P006,S003,2027-01-12 14:00,"Lower back pain, 2 weeks"
+A005,P003,S001,2027-01-12 09:00,Routine check-up

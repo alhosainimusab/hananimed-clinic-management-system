@@ -1,0 +1,32 @@
+# Build output
+target/
+out/
+bin/
+*.class
+*.jar
+!**/src/**/*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+nbproject/private/
+
+# Temp files written during an interrupted save
+data/*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*
+
+# Never commit coursework admin files
+*turnitin*
+*assessment*form*

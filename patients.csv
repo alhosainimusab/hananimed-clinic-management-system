@@ -1,0 +1,9 @@
+id,name,phone,age,gender,medical_history
+P001,Aisyah Rahman,0120000001,34,F,Fever;Prescribed: Paracetamol 500 mg Tablet (Qty: 20)
+P002,Daniel Lee,0120000002,27,M,Flu
+P003,Kavitha Raman,0120000003,45,F,
+P004,Hafiz Kamal,0120000004,52,M,Hypertension follow-up
+P005,Tan Mei Ling,0120000005,19,F,
+P006,Arjun Nair,0120000006,63,M,"Lower back pain, 2 weeks"
+P007,Nur Iman Zulkifli,0120000007,8,F,
+P008,Ahmad Faris,0120000008,30,M,
